@@ -1,11 +1,14 @@
+<div align="center">
+  
 ![GitHub repo size](https://img.shields.io/github/repo-size/Miguell-J/GrayDB?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Miguell-J/GrayDB?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Miguell-J/GrayDB?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Miguell-J/GrayDB?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Miguell-J/GrayDB?style=for-the-badge)
 
-
-# GrayDB 🐘
+  
+# GrayDB
+</div>
 
 <div align="center">
   
